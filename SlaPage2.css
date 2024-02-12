@@ -1,0 +1,438 @@
+.logo-mark-icon1 {
+  height: 43px;
+  width: 43.1px;
+  position: relative;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.taizoin-icon1 {
+  height: 15.6px;
+  width: 78.3px;
+  position: relative;
+}
+.text-vector {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-8xs);
+}
+.taizo-technologies-private1 {
+  position: relative;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.taizo-logomark1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.top-blackline {
+  height: 1px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  overflow: hidden;
+}
+.top-right-green-line {
+  height: 5px;
+  width: 249px;
+  position: relative;
+  background-color: var(--color-mediumseagreen);
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-left: -1px;
+}
+.container-frame,
+.recruitment-info-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container-frame {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-mid);
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}
+.mask-group-icon1 {
+  height: 668px;
+  width: 297px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -125px;
+  left: -42px;
+  object-fit: contain;
+}
+.recruitment-fee-structure1 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.on-the-annual {
+  font-weight: 600;
+}
+.taizoin-charges-833-container {
+  align-self: stretch;
+  position: relative;
+}
+.recruitment-fee-structure {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.guarantee-and-replacement {
+  font-weight: 600;
+}
+.guarantee-and-replacement,
+.in-the-event {
+  align-self: stretch;
+  position: relative;
+}
+.gurantee-and-replacement {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.effective-date1 {
+  font-weight: 600;
+}
+.effective-date1,
+.this-service-level {
+  align-self: stretch;
+  position: relative;
+}
+.body-text2,
+.effective-date {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.body-text2 {
+  gap: var(--gap-base);
+}
+.by-accepting-this {
+  align-self: stretch;
+  position: relative;
+}
+.accepted-and-agreed1,
+.taizo-testing2 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.signatures-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.seal-signature,
+.signature {
+  position: relative;
+  display: inline-block;
+}
+.signature {
+  max-width: 64px;
+}
+.seal-signature {
+  height: 17px;
+}
+.date-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.date,
+.div {
+  position: relative;
+  display: inline-block;
+}
+.date {
+  width: 47px;
+  flex-shrink: 0;
+  max-width: 47px;
+}
+.div {
+  height: 17px;
+}
+.accepted-and-agreed,
+.date-frame1,
+.signature-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.accepted-and-agreed,
+.signature-frame {
+  flex-direction: column;
+}
+.accepted-and-agreed {
+  gap: var(--gap-base);
+}
+.signature1 {
+  align-self: stretch;
+  position: relative;
+}
+.date1 {
+  width: 37px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.date1,
+.xxxx-xx-xx {
+  position: relative;
+}
+.recruitment-fee-structure2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.taizo-technologies-private2 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.seal-signature-f-1 {
+  width: 167px;
+  height: 54px;
+  position: absolute;
+  margin: 0 !important;
+  top: -4px;
+  left: 95px;
+  object-fit: cover;
+  z-index: 1;
+}
+.body-text1,
+.taizo-seal-signature {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.taizo-seal-signature {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-5xs);
+}
+.body-text1 {
+  flex: 1;
+  gap: var(--gap-13xl);
+  z-index: 1;
+}
+.body-text1,
+.fee-structure-frame,
+.s-l-a-frame,
+.s-l-a-page {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.fee-structure-frame {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  position: relative;
+}
+.s-l-a-frame,
+.s-l-a-page {
+  align-self: stretch;
+}
+.s-l-a-frame {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-8xl) 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.s-l-a-page {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-22xl);
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}
+.nd-floor-no51,
+.software-technology-parks1 {
+  margin: 0;
+}
+.software-technology-parks-container1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.location-pin-svgrepo-com-1-11 {
+  height: 12px;
+  width: 12px;
+  position: absolute;
+  margin: 0 !important;
+  top: 2px;
+  left: 78px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.location {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+}
+.landline-1-icon1 {
+  height: 12px;
+  width: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div1 {
+  position: relative;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.infotaizoin1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  max-width: 105px;
+}
+.email-svgrepo-com-3-11 {
+  height: 12px;
+  width: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.infotaizoin3 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 77px;
+  white-space: nowrap;
+}
+.infotaizoin2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  max-width: 91px;
+}
+.world-wide-web-2-11 {
+  height: 12px;
+  width: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wwwtaizoin1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 76px;
+}
+.emailsvgrepocom,
+.infotaizoin4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.emailsvgrepocom {
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-4xs);
+  max-width: 286px;
+}
+.footer-address1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+}
+.footeraddress,
+.sla-page-2 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.footeraddress {
+  width: 370px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-9xs) 0 0;
+  max-width: 100%;
+}
+.sla-page-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-xl) var(--padding-base) var(--padding-13xl)
+    var(--padding-2xl);
+  gap: var(--gap-106xl);
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 525px) {
+  .body-text1 {
+    gap: var(--gap-13xl);
+  }
+  .s-l-a-page {
+    gap: var(--gap-22xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .date-frame1 {
+    flex-wrap: wrap;
+  }
+  .sla-page-2 {
+    gap: var(--gap-106xl);
+  }
+}
