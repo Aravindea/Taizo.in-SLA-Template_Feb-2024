@@ -18,16 +18,16 @@ body {
   --color-mediumseagreen: #169c50;
 
   /* Gaps */
+  --gap-106xl: 125px;
   --gap-3xs: 10px;
   --gap-4xs: 9px;
   --gap-9xs: 4px;
   --gap-22xl: 41px;
-  --gap-base: 16px;
+  --gap-13xl: 32px;
   --gap-5xs: 8px;
+  --gap-base: 16px;
   --gap-mid: 17px;
   --gap-8xs: 5px;
-  --gap-106xl: 125px;
-  --gap-13xl: 32px;
 
   /* Paddings */
   --padding-xl: 20px;
